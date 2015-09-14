@@ -7,6 +7,12 @@
 * [16 сентября](https://github.com/weekly-talks/nodejs-weekly/milestones/16%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F)
 * 23 сентября
 
+## Мы в Slack
+
+Weekly Talks это открытая команда, присоединиться к которой может каждый. Платформа Slack работает только по приглашениям, используйте значёк ниже чтоб получить его прямо сейчас!
+
+[![Получить приглашение](https://weekly-talks-slackin.herokuapp.com/badge.svg)](https://weekly-talks-slackin.herokuapp.com/)
+
 ## Формат проведения
 
 * по средам, в рабочее время, в 15:30 **хост** создаёт групповой звонок
