@@ -1,10 +1,10 @@
 # nodejs-weekly
 
-> 15 минут, каждую вторую среду в 15:30 по Гродно (UTC+3), живой разговор о новостях node.js
+> 20 минут, каждую среду в 15:30 по Гродно (UTC+3), живой разговор о новостях node.js
 
 Ближайшие события:
 
-* [9 сентября](https://github.com/weekly-talks/nodejs-weekly/milestones/9%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F)
+* [16 сентября](https://github.com/weekly-talks/nodejs-weekly/milestones/16%20%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F)
 * 23 сентября
 
 ## Формат проведения
